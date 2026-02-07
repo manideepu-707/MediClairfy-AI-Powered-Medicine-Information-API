@@ -7,7 +7,7 @@ from fetch_new_med import fetch_from_internet;
 from sqlalchemy import func;
 from genai_explainer import explain_medicine;
 from model import Medic;
-
+###########
 app=FastAPI()
 
 
